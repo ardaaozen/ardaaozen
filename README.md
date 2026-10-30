@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ardaaozen/ardaaozen/raw/22b216b/assets/arda-ozen-github-banner.svg" alt="Arda Özen — ürün sistemleri, veri yönetimi ve mobil deneyimler" width="100%">
+  <img src="https://github.com/ardaaozen/ardaaozen/raw/f7a1e24/assets/arda-ozen-github-banner.svg" alt="Arda Özen — ürün sistemleri, veri yönetimi ve mobil deneyimler" width="100%">
 </p>
 
 <p align="center">
