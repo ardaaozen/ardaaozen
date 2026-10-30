@@ -63,9 +63,9 @@
   <p><a href="https://apps.apple.com/us/app/facetpdf-studio/id6793311006">App Store</a> · <a href="https://github.com/ardaaozen/FacetPDF-Studio-Showcase">İncele</a></p>
 </td>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/ardaaozen/DualVlog">DualVlog</a> <sub>iOS</sub></h3>
-  <p>Ön ve arka kamerayı senkron kaydederek içerik üretimini tek çekimlik bir akışa indirger.</p>
-  <p><a href="https://apps.apple.com/us/app/dualvlog/id6796005586">App Store</a> · <a href="https://github.com/ardaaozen/DualVlog">İncele</a></p>
+  <h3><a href="https://github.com/ardaaozen/NurVakti-Web-Showcase">Nur Vakti</a> <sub>Web</sub></h3>
+  <p>Mobil ürünleri, namaz vakitlerini ve dini bilgi arşivini çok dilli web deneyiminde buluşturur.</p>
+  <p><a href="https://www.nurvakti.app/">Canlı site</a> · <a href="https://github.com/ardaaozen/NurVakti-Web-Showcase">İncele</a></p>
 </td>
 </tr>
 </table>
