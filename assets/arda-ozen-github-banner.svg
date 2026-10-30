@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
   <title id="title">Arda Özen — ürün sistemleri, veri yönetimi ve mobil deneyimler</title>
-  <desc id="desc">Kömür siyahı ve şampanya altını tonlarında kişisel profil kapağı. Nur Vakti ürünü öne çıkar.</desc>
+  <desc id="desc">Kömür siyahı ve şampanya altını tonlarında, farklı dijital ürünleri temsil eden kişisel profil kapağı.</desc>
   <style>
     .signal { animation: travel 7s linear infinite; }
     .beacon { animation: breathe 4s ease-in-out infinite; }
@@ -58,15 +58,15 @@
     <rect x="833" y="72" width="320" height="186" rx="10" fill="#0b1111" stroke="#4e625e" stroke-opacity=".75"/>
     <circle cx="993" cy="64" r="2" fill="#c8a96a"/>
     <g font-family="Segoe UI,Arial,sans-serif">
-      <text x="855" y="106" font-size="13" letter-spacing="1.5" fill="#8d9b97">PRODUCT / 01</text>
-      <text x="855" y="139" font-size="20" font-weight="600" letter-spacing="1" fill="#eee4d1">NUR VAKTİ</text>
+      <text x="855" y="106" font-size="13" letter-spacing="1.5" fill="#8d9b97">PRODUCT PORTFOLIO</text>
+      <text x="855" y="139" font-size="20" font-weight="600" letter-spacing="1" fill="#eee4d1">DİJİTAL ÜRÜNLER</text>
       <path d="M855 153h193" stroke="url(#gold)" stroke-width="2"/>
-      <text x="855" y="170" font-size="10" letter-spacing="1" fill="#88968f">ANDROID  ·  IOS  ·  WEB</text>
+      <text x="855" y="170" font-size="10" letter-spacing="1" fill="#88968f">MOBILE  ·  WEB  ·  SYSTEMS</text>
     </g>
     <rect x="855" y="182" width="115" height="43" rx="8" fill="#1e2524" stroke="#4aa899" stroke-opacity=".5"/>
     <rect x="984" y="182" width="144" height="43" rx="8" fill="#1e2322" stroke="#c8a96a" stroke-opacity=".5"/>
     <circle cx="893" cy="203" r="13" fill="none" stroke="#61c8b4" stroke-width="2"/>
-    <path d="M892 191a12 12 0 1 0 12 21 12 12 0 1 1-12-21Z" fill="#c8a96a"/>
+    <path d="M881 203h24M893 191v24" fill="none" stroke="#c8a96a" stroke-width="2"/>
     <path d="M1003 196h99M1003 207h72" stroke="#b9b5a6" stroke-opacity=".6" stroke-width="2"/>
     <path d="M793 278h399l48 32H748Z" fill="#101313" stroke="#9a8254" stroke-opacity=".65"/>
     <rect x="736" y="310" width="514" height="10" rx="5" fill="#050607"/>
