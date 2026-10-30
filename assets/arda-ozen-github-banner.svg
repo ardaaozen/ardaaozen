@@ -1,6 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
   <title id="title">Arda Özen — ürün sistemleri, veri yönetimi ve mobil deneyimler</title>
   <desc id="desc">Kömür siyahı ve şampanya altını tonlarında kişisel profil kapağı. Nur Vakti ürünü öne çıkar.</desc>
+  <style>
+    .signal { animation: travel 7s linear infinite; }
+    .beacon { animation: breathe 4s ease-in-out infinite; }
+    @keyframes travel { to { stroke-dashoffset: -240; } }
+    @keyframes breathe { 50% { opacity: .25; } }
+    @media (prefers-reduced-motion: reduce) {
+      .signal, .beacon { animation: none; }
+    }
+  </style>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#080b0d"/>
@@ -39,7 +48,8 @@
     <path d="M642 92h68l32 32h48" stroke="#4aa899" stroke-width="2" stroke-opacity=".6"/>
     <path d="M618 157h90l38 38h51" stroke="#c8a96a" stroke-width="2" stroke-opacity=".65"/>
     <path d="M654 247h70l31-31h42" stroke="#4aa899" stroke-width="2" stroke-opacity=".5"/>
-    <circle cx="642" cy="92" r="4" fill="#76d3be" stroke="none"/>
+    <path class="signal" d="M642 92h68l32 32h48" stroke="#89e0ca" stroke-width="3" stroke-dasharray="18 222" stroke-dashoffset="18"/>
+    <circle class="beacon" cx="642" cy="92" r="4" fill="#76d3be" stroke="none"/>
     <circle cx="618" cy="157" r="3" fill="#d7b878" stroke="none"/>
   </g>
 
