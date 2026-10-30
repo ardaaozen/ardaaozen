@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="./assets/arda-ozen-github-banner.png" alt="Arda Özen — ürün sistemleri, veri yönetimi ve mobil deneyimler" width="100%">
-  <img src="./assets/arda-ozen-accent.gif" alt="" width="72%">
+  <img src="./assets/arda-ozen-github-banner.svg" alt="Arda Özen — ürün sistemleri, veri yönetimi ve mobil deneyimler" width="100%">
 </p>
 
 <p align="center">
